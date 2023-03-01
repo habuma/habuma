@@ -10,7 +10,7 @@ td, th {
 <br>
 <h2>My Books</h2>
 
-<table style="border:0px solid white;">
+<table>
   <tr>
     <td align="center">
         <a href="http://www.amazon.com/gp/product/1617297577/?tag=habumacom-20" target="_blank"><img src="https://www.habuma.com/img/SiA6_FrontCover.jpg" style="border:1px solid #0D1C35;"/></a>
@@ -26,3 +26,32 @@ td, th {
     </td>
   </tr>
 </table>
+
+<br>
+<br>
+<h4>Spring Videos</h4>
+<table>
+  <tr>
+    <td align="center">
+        <iframe width="360" height="270"
+            src="https://www.youtube.com/embed/I9u_DZtmhwI">
+        </iframe>
+        <h4>Spring 6 and Declarative RSocket Clients</h4>
+    </td>
+    <td align="center">
+        <iframe width="360" height="270"
+            src="https://www.youtube.com/embed/QXgq_e7etXc">
+        </iframe>
+        <h4>Spring 6 and Declarative HTTP Clients</h4>
+    </td>
+    <td align="center">
+        <iframe width="360" height="270"
+            src="https://www.youtube.com/embed/4YyJUS_7rQE">
+        </iframe>
+        <h4>Spring 6 and Problem Details</h4>
+    </td>
+  </tr>
+</table>
+<h5><a href="https://www.youtube.com/channel/UC4KvfQvH5XAfbA5g7sMdOww" target="_blank">Click here for more Spring videos</a></h5>
+
+
