@@ -74,21 +74,34 @@
     <td><a style="color: white;" href="https://nofluffjuststuff.com/seattle" target="_blank">Pacific Northwest Software Symposium</a> : Seattle, WA</td>
     </tr>
     <tr>
-    <td align="center">May 5-7, 2023</td>
-    <td><a style="color: white;" href="https://nofluffjuststuff.com/columbus" target="_blank">Central Ohio Software Symposium</a> : Columbus, OH</td>
-    </tr>
-    <tr>
     <td align="center">June 9-10, 2023</td>
     <td><a style="color: white;" href="https://nofluffjuststuff.com/desmoines" target="_blank">Central Iowa Software Symposium</a> : Dallas, TX</td>
     </tr>
     <tr>
-    <td align="center">July 11-14, 2023</td>
+    <td align="center">July 14-15, 2023</td>
+    <td><a style="color: white;" href="https://nofluffjuststuff.com/austin" target="_blank">Lone Star Software Symposium</a> : Austin, TX</td>
+    </tr>
+    <tr>
+    <td align="center">July 18-21, 2023</td>
     <td><a style="color: white;" href="https://uberconf.com/" target="_blank">ÜberConf</a> : Denver, CO</td>
     </tr>
     <tr>
-    <td align="center">July 21-22, 2023</td>
-    <td><a style="color: white;" href="https://nofluffjuststuff.com/conference/austin/2023/07/home" target="_blank">Lone Star Software Symposium</a> : Austin, TX</td>
+    <td align="center">Sept 1422-24-15, 2023</td>
+    <td><a style="color: white;" href="https://nofluffjuststuff.com/boston" target="_blank">New England Software Symposium</a> : Boston, MA</td>
     </tr>
+    <tr>
+    <td align="center">Sept 29-Oct 1, 2023</td>
+    <td><a style="color: white;" href="https://nofluffjuststuff.com/columbus" target="_blank">Central Ohio Software Symposium</a> : Columbus, OH</td>
+    </tr>
+    <tr>
+    <td align="center">Oct 13-14, 2023</td>
+    <td><a style="color: white;" href="https://nofluffjuststuff.com/reston" target="_blank">Northern Virginia Software Symposium</a> : Reston, VA</td>
+    </tr>
+    <tr>
+    <td align="center">Oct 20-21, 2023</td>
+    <td><a style="color: white;" href="https://nofluffjuststuff.com/minneapolis" target="_blank">Twin Cities Software Symposium</a> : Minneapolis, MN</td>
+    </tr>
+
 </table>
 
 
