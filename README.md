@@ -1,4 +1,6 @@
 <h3 align="center">Java, Spring, and Alexa Developer</h3>
+<p>Craig is an engineer with VMware, Java Champion, and the author of Spring in Action and Build Talking Apps. He's a zealous promoter of the Spring Framework and developing voice experiences for Alexa, speaking frequently at local user groups and conferences and writing about Spring and Alexa. When he's not slinging code, Craig is planning his next trip to Disney World or Disneyland and spending as much time as he can with his wife, two daughters, 1 bird and 3 dogs.</p>
+
 <h2>My Books</h2>
 
 <table>
