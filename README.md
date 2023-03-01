@@ -19,6 +19,7 @@
 </table>
 
 <br>
+<h2>My Videos</h2>
 <h4>Spring Videos</h4>
 <table>
   <tr>
@@ -57,4 +58,30 @@
 </table>
 <h5><a href="https://www.youtube.com/channel/UC3PN-vEhnKGUo4mIauOqHUQ" target="_blank">Click here for more Alexa videos</a></h5>
 
-
+<h2>My Projects</h2>
+<table>
+  <tr>
+    <td align="center" valign="top">
+        <a href="https://www.amazon.com/Craig-Walls-Mouse-Guests/dp/B094YZSGNV" target="_blank"><img src="https://www.habuma.com/img/MouseGuestsSkill.png" style="height: 210px;"/></a>
+        <h4>MouseGuests Alexa Skill</h4>
+        <p>When you're in Disney World or Disneyland and need to know what the wait time is for Haunted Mansion, what time the park closes, or where you can find the nearest churro cart, the MouseGuests skill can help.</p>
+        <a href="https://www.habuma.com/mouseguests">&#8594; Read about this Alexa skill</a><br/>
+        <a href="https://www.amazon.com/Craig-Walls-Mouse-Guests/dp/B094YZSGNV" target="_blank">The MouseGuests skill on Amazon.com</a><br/>
+        <a href="https://alexa-skills.amazon.com/apis/custom/skills/amzn1.ask.skill.18335bd4-876e-46e6-a8a7-b5263715a541/launch" target="_blank">&#8594; Launch MouseGuests on Your Echo Device</a>
+    </td>
+    <td align="center" valign="top">
+        <a href="https://www.amazon.com/Craig-Walls-Fluff-Just-Stuff/dp/B09F3NX3NB" target="_blank"><img src="https://www.habuma.com/img/NFJSSkill.png" height="420" style="height: 210px;"/></a>
+        <h4>NFJS Alexa Skill</h4>
+        <p>Are you attending a No Fluff Just Stuff conference? Want to find out about upcoming NFJS events? The NFJS Alexa Skill can be your guide to every NFJS experience.</p>
+        <a href="https://www.amazon.com/Craig-Walls-Fluff-Just-Stuff/dp/B09F3NX3NB" target="_blank">&#8594; The NFJS Skill on Amazon.com</a><br/>
+        <a href="https://alexa-skills.amazon.com/apis/custom/skills/amzn1.ask.skill.294386c7-bfd7-40c5-8d44-2f4795e6d0d4/launch" target="_blank">&#8594; Launch NFJS on Your Echo Device</a>
+    </td>
+    <td align="center" valign="top">
+        <a href="https://neo4j.com/graphgists/mouseportation/" target="_blank"><img src="https://www.habuma.com/img/MousePortationGraphGist.png" height="420" style="height: 210px;"/></a>
+        <h4>MousePortation GraphGist</h4>
+        <p>This Neo4j GraphGist can help you find the quickest path between parks, resorts, and other places in Walt Disney World.</p>
+        <a href="https://neo4j.com/graphgists/mouseportation/" target="_blank">&#8594; Read the GraphGist</a><br/>
+        <a href="https://gist.github.com/habuma/17d2061f929bfbcb399d" target="_blank">&#8594; Read the original Gist</a>
+    </td>
+  </tr>
+</table>
