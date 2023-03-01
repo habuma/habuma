@@ -33,15 +33,15 @@ td, th {
 <table>
   <tr>
     <td align="center">
-        [![Spring 6 and Declarative RSocket Clients](https://img.youtube.com/vi/I9u_DZtmhwI/0.jpg)](https://www.youtube.com/watch?v=I9u_DZtmhwI)
+        <a href="https://www.youtube.com/watch?v=I9u_DZtmhwI"><img src="https://img.youtube.com/vi/I9u_DZtmhwI/0.jpg"/></a>
         <h4>Spring 6 and Declarative RSocket Clients</h4>
     </td>
     <td align="center">
-        [![Spring 6 and Declarative HTTP Clients](https://img.youtube.com/vi/QXgq_e7etXc/0.jpg)](https://www.youtube.com/watch?v=QXgq_e7etXc)
+        <a href="https://www.youtube.com/watch?v=QXgq_e7etXc"><img src="https://img.youtube.com/vi/QXgq_e7etXc/0.jpg"/></a>
         <h4>Spring 6 and Declarative HTTP Clients</h4>
     </td>
     <td align="center">
-        [![Spring 6 and Problem Details](https://img.youtube.com/vi/4YyJUS_7rQE/0.jpg)](https://www.youtube.com/watch?v=4YyJUS_7rQE)
+        <a href="https://www.youtube.com/watch?v=4YyJUS_7rQE"><img src="https://img.youtube.com/vi/4YyJUS_7rQE/0.jpg"/></a>
         <h4>Spring 6 and Problem Details</h4>
     </td>
   </tr>
