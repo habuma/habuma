@@ -1,7 +1,4 @@
 <h3 align="center">Java, Spring, and Alexa Developer</h3>
-
-<br>
-<br>
 <h2>My Books</h2>
 
 <table>
