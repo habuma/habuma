@@ -4,7 +4,7 @@
 <br>
 <h2>My Books</h2>
 
-<table border="0">
+<table style="border:0;">
   <tr>
     <td align="center">
         <a href="http://www.amazon.com/gp/product/1617297577/?tag=habumacom-20" target="_blank"><img src="https://www.habuma.com/img/SiA6_FrontCover.jpg" style="border:1px solid #0D1C35;"/></a>
