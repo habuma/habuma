@@ -1,9 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 <h3 align="center">Java, Spring, and Alexa Developer</h3>
 
 <br>
@@ -28,7 +22,6 @@ td, th {
 </table>
 
 <br>
-<br>
 <h4>Spring Videos</h4>
 <table>
   <tr>
@@ -48,7 +41,6 @@ td, th {
 </table>
 <h5><a href="https://www.youtube.com/channel/UC4KvfQvH5XAfbA5g7sMdOww" target="_blank">Click here for more Spring videos</a></h5>
 
-<br>
 <h4>Alexa Videos</h4>
 <table>
   <tr>
