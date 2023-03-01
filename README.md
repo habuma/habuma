@@ -1,3 +1,9 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 <h3 align="center">Java, Spring, and Alexa Developer</h3>
 
 <br>
