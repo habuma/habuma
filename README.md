@@ -89,7 +89,7 @@
 
 <h2>Connect</h2>
 <p>Where you can find and connect with Craig on social media</p>
-<table>
+<table width="100%">
   <tr>
     <td align="center" valign="top" width="25%">
         <a rel="me" href="https://fosstodon.org/@habuma" target="_blank">
