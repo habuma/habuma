@@ -32,20 +32,40 @@ td, th {
 <h4>Spring Videos</h4>
 <table>
   <tr>
-    <td align="center">
+    <td align="center" valign="top">
         <a href="https://www.youtube.com/watch?v=I9u_DZtmhwI"><img src="https://img.youtube.com/vi/I9u_DZtmhwI/0.jpg"/></a>
         <h4>Spring 6 and Declarative RSocket Clients</h4>
     </td>
-    <td align="center">
+    <td align="center" valign="top">
         <a href="https://www.youtube.com/watch?v=QXgq_e7etXc"><img src="https://img.youtube.com/vi/QXgq_e7etXc/0.jpg"/></a>
         <h4>Spring 6 and Declarative HTTP Clients</h4>
     </td>
-    <td align="center">
+    <td align="center" valign="top">
         <a href="https://www.youtube.com/watch?v=4YyJUS_7rQE"><img src="https://img.youtube.com/vi/4YyJUS_7rQE/0.jpg"/></a>
         <h4>Spring 6 and Problem Details</h4>
     </td>
   </tr>
 </table>
 <h5><a href="https://www.youtube.com/channel/UC4KvfQvH5XAfbA5g7sMdOww" target="_blank">Click here for more Spring videos</a></h5>
+
+<br>
+<h4>Alexa Videos</h4>
+<table>
+  <tr>
+    <td align="center" valign="top">
+        <a href="https://www.youtube.com/watch?v=4g_rY451bxM"><img src="https://img.youtube.com/vi/4g_rY451bxM/0.jpg"/></a>
+        <h4>Experimenting with OpenAI's GPT-3 behind an Alexa skill</h4>
+    </td>
+    <td align="center" valign="top">
+        <a href="https://www.youtube.com/watch?v=Sg4RZlH2vh8"><img src="https://img.youtube.com/vi/Sg4RZlH2vh8/0.jpg"/></a>
+        <h4>Randomizing Alexa Responses with APL-A</h4>
+    </td>
+    <td align="center" valign="top">
+        <a href="https://www.youtube.com/watch?v=YAE8rqwzgX4"><img src="https://img.youtube.com/vi/YAE8rqwzgX4/0.jpg"/></a>
+        <h4>Developing Alexa Skills in Java</h4>
+    </td>
+  </tr>
+</table>
+<h5><a href="https://www.youtube.com/channel/UC3PN-vEhnKGUo4mIauOqHUQ" target="_blank">Click here for more Alexa videos</a></h5>
 
 
