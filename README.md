@@ -60,38 +60,37 @@
 
 <h2>My Speaking Schedule</h2>
 <p class="lead" style="text-shadow: 2px 2px #000000;">Tech events, conferences, and user groups where you&#39;ll find Craig talking about Spring, Spring Boot, and Alexa</p>
-    <div style="font-size: 18pt; color: white; font-weight: bold;border-bottom: 1px solid white; padding-top: 15px; padding-bottom: 15px;">
-    <div style="text-shadow: 2px 2px #000000;width: 200px; float: left;">Jan 10-13, 2023</div>
-    <div style="text-shadow: 2px 2px #000000;"><a style="color: white;" href="https://www.codemash.org/" target="_blank">CodeMash</a> : Sandusky, OH</div>
-    </div>
-    <div style="font-size: 18pt; color: white; font-weight: bold;border-bottom: 1px solid white; padding-top: 15px; padding-bottom: 15px;">
-    <div style="text-shadow: 2px 2px #000000;width: 220px; float: left;">Mar 31-Apr 1, 2023</div>
-    <div style="text-shadow: 2px 2px #000000;"><a style="color: white;" href="https://nofluffjuststuff.com/stlouis" target="_blank">Gateway Software Symposium</a> : St. Louis, MO</div>
-    </div>
-    <div style="font-size: 18pt; color: white; font-weight: bold;border-bottom: 1px solid white; padding-top: 15px; padding-bottom: 15px;">
-    <div style="text-shadow: 2px 2px #000000;width: 220px; float: left;">Apr 4-6, 2023</div>
-    <div style="text-shadow: 2px 2px #000000;"><a style="color: white;" href="https://devnexus.com/" target="_blank">DevNexus</a> : Atlanta, GA</div>
-    </div>
-    <div style="font-size: 18pt; color: white; font-weight: bold;border-bottom: 1px solid white; padding-top: 15px; padding-bottom: 15px;">
-    <div style="text-shadow: 2px 2px #000000;width: 200px; float: left;">Apr 14-15, 2023</div>
-    <div style="text-shadow: 2px 2px #000000;"><a style="color: white;" href="https://nofluffjuststuff.com/seattle" target="_blank">Pacific Northwest Software Symposium</a> : Seattle, WA</div>
-    </div>
-    <div style="font-size: 18pt; color: white; font-weight: bold;border-bottom: 1px solid white; padding-top: 15px; padding-bottom: 15px;">
-    <div style="text-shadow: 2px 2px #000000; width: 200px; float: left;">May 5-7, 2023</div>
-    <div style="text-shadow: 2px 2px #000000;"><a style="color: white;" href="https://nofluffjuststuff.com/columbus" target="_blank">Central Ohio Software Symposium</a> : Columbus, OH</div>
-    </div>
-    <div style="font-size: 18pt; color: white; font-weight: bold;border-bottom: 1px solid white; padding-top: 15px; padding-bottom: 15px;">
-    <div style="text-shadow: 2px 2px #000000;width: 200px; float: left;">June 9-10, 2023</div>
-    <div style="text-shadow: 2px 2px #000000;"><a style="color: white;" href="https://nofluffjuststuff.com/desmoines" target="_blank">Central Iowa Software Symposium</a> : Dallas, TX</div>
-    </div>
-    <div style="font-size: 18pt; color: white; font-weight: bold;border-bottom: 1px solid white; padding-top: 15px; padding-bottom: 15px;">
-    <div style="text-shadow: 2px 2px #000000;width: 200px; float: left;">July 11-14, 2023</div>
-    <div style="text-shadow: 2px 2px #000000;"><a style="color: white;" href="https://uberconf.com/" target="_blank">ÜberConf</a> : Denver, CO</div>
-    </div>
-    <div style="font-size: 18pt; color: white; font-weight: bold;border-bottom: 1px solid white; padding-top: 15px; padding-bottom: 15px;">
-    <div style="text-shadow: 2px 2px #000000;width: 200px; float: left;">July 21-22, 2023</div>
-    <div style="text-shadow: 2px 2px #000000;"><a style="color: white;" href="https://nofluffjuststuff.com/conference/austin/2023/07/home" target="_blank">Lone Star Software Symposium</a> : Austin, TX</div>
-    </div>
+<table>
+    <tr>
+    <td align="center">Mar 31-Apr 1, 2023</td>
+    <td><a style="color: white;" href="https://nofluffjuststuff.com/stlouis" target="_blank">Gateway Software Symposium</a> : St. Louis, MO</td>
+    </tr>
+    <tr>
+    <td align="center">Apr 4-6, 2023</td>
+    <td><a style="color: white;" href="https://devnexus.com/" target="_blank">DevNexus</a> : Atlanta, GA</td>
+    </tr>
+    <tr>
+    <td align="center">Apr 14-15, 2023</td>
+    <td><a style="color: white;" href="https://nofluffjuststuff.com/seattle" target="_blank">Pacific Northwest Software Symposium</a> : Seattle, WA</td>
+    </tr>
+    <tr>
+    <td align="center">May 5-7, 2023</td>
+    <td><a style="color: white;" href="https://nofluffjuststuff.com/columbus" target="_blank">Central Ohio Software Symposium</a> : Columbus, OH</td>
+    </tr>
+    <tr>
+    <td align="center">June 9-10, 2023</td>
+    <td><a style="color: white;" href="https://nofluffjuststuff.com/desmoines" target="_blank">Central Iowa Software Symposium</a> : Dallas, TX</td>
+    </tr>
+    <tr>
+    <td align="center">July 11-14, 2023</td>
+    <td><a style="color: white;" href="https://uberconf.com/" target="_blank">ÜberConf</a> : Denver, CO</td>
+    </tr>
+    <tr>
+    <td align="center">July 21-22, 2023</td>
+    <td><a style="color: white;" href="https://nofluffjuststuff.com/conference/austin/2023/07/home" target="_blank">Lone Star Software Symposium</a> : Austin, TX</td>
+    </tr>
+</table>
+
 
 <h2>My Projects</h2>
 <p>Here are a few of my favorite personal projects...</p>
