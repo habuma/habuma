@@ -73,7 +73,7 @@
     </tr>
     <tr>
     <td align="center">June 9-10, 2023</td>
-    <td><a style="color: white;" href="https://nofluffjuststuff.com/desmoines" target="_blank">Central Iowa Software Symposium</a> : Des Moines, TX</td>
+    <td><a style="color: white;" href="https://nofluffjuststuff.com/desmoines" target="_blank">Central Iowa Software Symposium</a> : Des Moines, IA</td>
     </tr>
     <tr>
     <td align="center">July 14-15, 2023</td>
