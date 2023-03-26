@@ -72,12 +72,8 @@
     <td><a style="color: white;" href="https://devnexus.com/" target="_blank">DevNexus</a> : Atlanta, GA</td>
     </tr>
     <tr>
-    <td align="center">Apr 14-15, 2023</td>
-    <td><a style="color: white;" href="https://nofluffjuststuff.com/seattle" target="_blank">Pacific Northwest Software Symposium</a> : Seattle, WA</td>
-    </tr>
-    <tr>
     <td align="center">June 9-10, 2023</td>
-    <td><a style="color: white;" href="https://nofluffjuststuff.com/desmoines" target="_blank">Central Iowa Software Symposium</a> : Dallas, TX</td>
+    <td><a style="color: white;" href="https://nofluffjuststuff.com/desmoines" target="_blank">Central Iowa Software Symposium</a> : Des Moines, TX</td>
     </tr>
     <tr>
     <td align="center">July 14-15, 2023</td>
