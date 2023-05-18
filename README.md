@@ -26,16 +26,16 @@
 <table>
   <tr>
     <td align="center" valign="top">
+        <a href="https://www.youtube.com/watch?v=EZBHAwuQl_U"><img src="https://img.youtube.com/vi/EZBHAwuQl_U/0.jpg"/></a>
+        <h4>Kontain Your Spring (DevNexus 2023)</h4>
+    </td>
+    <td align="center" valign="top">
         <a href="https://www.youtube.com/watch?v=I9u_DZtmhwI"><img src="https://img.youtube.com/vi/I9u_DZtmhwI/0.jpg"/></a>
         <h4>Spring 6 and Declarative RSocket Clients</h4>
     </td>
     <td align="center" valign="top">
         <a href="https://www.youtube.com/watch?v=QXgq_e7etXc"><img src="https://img.youtube.com/vi/QXgq_e7etXc/0.jpg"/></a>
         <h4>Spring 6 and Declarative HTTP Clients</h4>
-    </td>
-    <td align="center" valign="top">
-        <a href="https://www.youtube.com/watch?v=4YyJUS_7rQE"><img src="https://img.youtube.com/vi/4YyJUS_7rQE/0.jpg"/></a>
-        <h4>Spring 6 and Problem Details</h4>
     </td>
   </tr>
 </table>
