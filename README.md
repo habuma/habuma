@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td align="center" valign="top">
-        <a href="https://www.youtube.com/watch?v=EZBHAwuQl_U"><img src="https://img.youtube.com/vi/EZBHAwuQl_U/1.jpg" width="480" height="360"/></a>
+        <a href="https://www.youtube.com/watch?v=EZBHAwuQl_U"><img src="https://img.youtube.com/vi/EZBHAwuQl_U/1.jpg" width="480" /></a>
         <h4>Kontain Your Spring (DevNexus 2023)</h4>
     </td>
     <td align="center" valign="top">
