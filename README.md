@@ -64,14 +64,6 @@
 <p class="lead" style="text-shadow: 2px 2px #000000;">Tech events, conferences, and user groups where you&#39;ll find Craig talking about Spring, Spring Boot, and Alexa</p>
 <table>
     <tr>
-    <td align="center">Mar 31-Apr 1, 2023</td>
-    <td><a style="color: white;" href="https://nofluffjuststuff.com/stlouis" target="_blank">Gateway Software Symposium</a> : St. Louis, MO</td>
-    </tr>
-    <tr>
-    <td align="center">Apr 4-6, 2023</td>
-    <td><a style="color: white;" href="https://devnexus.com/" target="_blank">DevNexus</a> : Atlanta, GA</td>
-    </tr>
-    <tr>
     <td align="center">June 9-10, 2023</td>
     <td><a style="color: white;" href="https://nofluffjuststuff.com/desmoines" target="_blank">Central Iowa Software Symposium</a> : Des Moines, IA</td>
     </tr>
