@@ -87,6 +87,10 @@
     <td align="center">Oct 20-21, 2023</td>
     <td><a style="color: white;" href="https://nofluffjuststuff.com/minneapolis" target="_blank">Twin Cities Software Symposium</a> : Minneapolis, MN</td>
     </tr>
+    <tr>
+    <td align="center">Nov 3-4, 2023</td>
+    <td><a style="color: white;" href="https://nofluffjuststuff.com/saltlakecity" target="_blank">Salt Lake Software Symposium</a> : Minneapolis, MN</td>
+    </tr>
 
 </table>
 
