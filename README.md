@@ -68,6 +68,10 @@
     <td><a style="color: white;" href="https://uberconf.com/" target="_blank">ÜberConf</a> : Denver, CO</td>
     </tr>
     <tr>
+    <td align="center">Aug 21-24, 2023</td>
+    <td><a style="color: white;" href="https://springone.io/" target="_blank">SpringOne at VMware Explore</a> : Las Vegas, NV</td>
+    </tr>
+    <tr>
     <td align="center">Sept 22-24, 2023</td>
     <td><a style="color: white;" href="https://nofluffjuststuff.com/boston" target="_blank">New England Software Symposium</a> : Boston, MA</td>
     </tr>
