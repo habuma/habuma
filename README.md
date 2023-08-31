@@ -64,18 +64,6 @@
 <p class="lead" style="text-shadow: 2px 2px #000000;">Tech events, conferences, and user groups where you&#39;ll find Craig talking about Spring, Spring Boot, and Alexa</p>
 <table>
     <tr>
-    <td align="center">July 18-21, 2023</td>
-    <td><a style="color: white;" href="https://uberconf.com/" target="_blank">ÜberConf</a> : Denver, CO</td>
-    </tr>
-    <tr>
-    <td align="center">Aug 21-24, 2023</td>
-    <td><a style="color: white;" href="https://springone.io/" target="_blank">SpringOne at VMware Explore</a> : Las Vegas, NV</td>
-    </tr>
-    <tr>
-    <td align="center">Sept 22-24, 2023</td>
-    <td><a style="color: white;" href="https://nofluffjuststuff.com/boston" target="_blank">New England Software Symposium</a> : Boston, MA</td>
-    </tr>
-    <tr>
     <td align="center">Sept 29-Oct 1, 2023</td>
     <td><a style="color: white;" href="https://nofluffjuststuff.com/columbus" target="_blank">Central Ohio Software Symposium</a> : Columbus, OH</td>
     </tr>
