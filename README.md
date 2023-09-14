@@ -34,7 +34,7 @@
         <h4>Introducing Spring AI</h4>
     </td>
     <td align="center" valign="middle">
-        <a href="https://www.youtube.com/watch?v=YF6WJUraT_s"><img src="https://img.youtube.com/vi/1g_wuincUdU/0.jpg" width="480" /></a>
+        <a href="https://www.youtube.com/watch?v=YF6WJUraT_s"><img src="https://img.youtube.com/vi/YF6WJUraT_s/0.jpg" width="480" /></a>
         <h4>Springing into Kubernetes (from SpringOne@VMware Explore 2023)</h4>
     </td>
   </tr>
