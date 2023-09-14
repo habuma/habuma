@@ -61,7 +61,7 @@
   <tr>
     <td align="center" valign="top">
         <a href="https://www.youtube.com/watch?v=9v8JSKPmNF4"><img src="https://img.youtube.com/vi/9v8JSKPmNF4/0.jpg"/></a>
-        <h4>Randomizing Alexa Responses with APL-A</h4>
+        <h4>Alexa Office Hours (9/12/2023)</h4>
     </td>
     <td align="center" valign="top">
         <a href="https://www.youtube.com/watch?v=HhFZYJYvHbk"><img src="https://img.youtube.com/vi/HhFZYJYvHbk/0.jpg"/></a>
