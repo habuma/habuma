@@ -60,16 +60,16 @@
 <table>
   <tr>
     <td align="center" valign="top">
+        <a href="https://www.youtube.com/watch?v=HhFZYJYvHbk"><img src="https://img.youtube.com/vi/HhFZYJYvHbk/0.jpg"/></a>
+        <h4>Running and Debugging Alexa Skills Locally</h4>
+    </td>
+    <td align="center" valign="top">
         <a href="https://www.youtube.com/watch?v=4g_rY451bxM"><img src="https://img.youtube.com/vi/4g_rY451bxM/0.jpg"/></a>
         <h4>Experimenting with OpenAI's GPT-3 behind an Alexa skill</h4>
     </td>
     <td align="center" valign="top">
         <a href="https://www.youtube.com/watch?v=Sg4RZlH2vh8"><img src="https://img.youtube.com/vi/Sg4RZlH2vh8/0.jpg"/></a>
         <h4>Randomizing Alexa Responses with APL-A</h4>
-    </td>
-    <td align="center" valign="top">
-        <a href="https://www.youtube.com/watch?v=YAE8rqwzgX4"><img src="https://img.youtube.com/vi/YAE8rqwzgX4/0.jpg"/></a>
-        <h4>Developing Alexa Skills in Java</h4>
     </td>
   </tr>
 </table>
