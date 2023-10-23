@@ -80,7 +80,7 @@
 <table>
     <tr>
     <td align="center">Jan 9-12, 2024</td>
-    <td><a style="color: white;" href="https://nofluffjuststuff.com/columbus" target="_blank">CodeMash 2024</a> : Sandusky, OH</td>
+    <td><a style="color: white;" href="https://codemash.org/" target="_blank">CodeMash 2024</a> : Sandusky, OH</td>
     </tr>
     <tr>
     <td align="center">Apr 5-6, 2024</td>
