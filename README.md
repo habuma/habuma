@@ -149,6 +149,12 @@
         </a>
     </td>
     <td align="center" valign="top" width="25%">
+        <a rel="me" href="https://bsky.app/profile/habuma.bsky.social" target="_blank">
+            <img src="https://www.habuma.com/img/bluesky.png" height="100"/>
+            <h4>Bluesky<br/>(@habuma)</h4>
+        </a>
+    </td>
+    <td align="center" valign="top" width="25%">
         <a rel="me" href="https://www.linkedin.com/in/habuma" target="_blank">
             <img src="https://www.habuma.com/img/linkedin.png" height="100"/>
             <h4>LinkedIn</h4>
