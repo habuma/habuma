@@ -79,20 +79,20 @@
 <p class="lead" style="text-shadow: 2px 2px #000000;">Tech events, conferences, and user groups where you&#39;ll find Craig talking about Spring, Spring Boot, and Alexa</p>
 <table>
     <tr>
-    <td align="center">Sept 29-Oct 1, 2023</td>
-    <td><a style="color: white;" href="https://nofluffjuststuff.com/columbus" target="_blank">Central Ohio Software Symposium</a> : Columbus, OH</td>
+    <td align="center">Jan 9-12, 2024</td>
+    <td><a style="color: white;" href="https://nofluffjuststuff.com/columbus" target="_blank">CodeMash 2024</a> : Sandusky, OH</td>
     </tr>
     <tr>
-    <td align="center">Oct 13-14, 2023</td>
-    <td><a style="color: white;" href="https://nofluffjuststuff.com/reston" target="_blank">Northern Virginia Software Symposium</a> : Reston, VA</td>
+    <td align="center">Apr 5-6, 2024</td>
+    <td><a style="color: white;" href="https://nofluffjuststuff.com/stlouis" target="_blank">Gateway Software Symposium</a> : St. Louis, MO</td>
     </tr>
     <tr>
-    <td align="center">Oct 20-21, 2023</td>
-    <td><a style="color: white;" href="https://nofluffjuststuff.com/minneapolis" target="_blank">Twin Cities Software Symposium</a> : Minneapolis, MN</td>
+    <td align="center">Apr 12-13, 2024</td>
+    <td><a style="color: white;" href="https://nofluffjuststuff.com/dallas" target="_blank">Lone Star Software Symposium</a> : Dallas, TX</td>
     </tr>
     <tr>
-    <td align="center">Nov 3-4, 2023</td>
-    <td><a style="color: white;" href="https://nofluffjuststuff.com/saltlakecity" target="_blank">Salt Lake Software Symposium</a> : Minneapolis, MN</td>
+    <td align="center">May 3-5, 2024</td>
+    <td><a style="color: white;" href="https://nofluffjuststuff.com/boston" target="_blank">New England Software Symposium</a> : Boston, MA</td>
     </tr>
 
 </table>
