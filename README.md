@@ -131,36 +131,36 @@
 <p>Where you can find and connect with Craig on social media</p>
 <table width="100%">
   <tr>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="17%">
         <a rel="me" href="https://fosstodon.org/@habuma" target="_blank">
             <img src="https://www.habuma.com/img/mastodon.png" height="100"/>
             <h4>Mastodon<br/>(@habuma@fosstodon.org)</h4>
     </td>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="17%">
         <a rel="me" href="https://twitter.com/habuma" target="_blank">
             <img src="https://www.habuma.com/img/twitter.png" height="100"/>
             <h4>Twitter<br/>(@habuma)</h4>
         </a>
     </td>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="17%">
         <a rel="me" href="https://www.threads.net/@habuma" target="_blank">
             <img src="https://www.habuma.com/img/threads.png" height="100"/>
             <h4>Threads<br/>(@habuma)</h4>
         </a>
     </td>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="17%">
         <a rel="me" href="https://bsky.app/profile/habuma.bsky.social" target="_blank">
             <img src="https://www.habuma.com/img/bluesky.png" height="100"/>
             <h4>Bluesky<br/>(@habuma)</h4>
         </a>
     </td>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="17%">
         <a rel="me" href="https://www.linkedin.com/in/habuma" target="_blank">
             <img src="https://www.habuma.com/img/linkedin.png" height="100"/>
             <h4>LinkedIn</h4>
         </a>
     </td>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="17%">
         <a rel="me" href="https://about.me/craig_walls" target="_blank">
             <img src="https://www.habuma.com/img/aboutme.png" height="100"/>
             <h4>About.me</h4>
