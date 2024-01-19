@@ -83,6 +83,10 @@
     <td><a style="color: white;" href="https://codemash.org/" target="_blank">CodeMash 2024</a> : Sandusky, OH</td>
     </tr>
     <tr>
+    <td align="center">Jan 25, 26, 29 and 30, 2024</td>
+    <td><a style="color: white;" href="https://jchampionsconf.com/" target="_blank">jChampions</a> : Online</td>
+    </tr>
+    <tr>
     <td align="center">Apr 5-6, 2024</td>
     <td><a style="color: white;" href="https://nofluffjuststuff.com/stlouis" target="_blank">Gateway Software Symposium</a> : St. Louis, MO</td>
     </tr>
@@ -91,8 +95,16 @@
     <td><a style="color: white;" href="https://nofluffjuststuff.com/dallas" target="_blank">Lone Star Software Symposium</a> : Dallas, TX</td>
     </tr>
     <tr>
-    <td align="center">May 3-5, 2024</td>
+    <td align="center">May 3-4, 2024</td>
     <td><a style="color: white;" href="https://nofluffjuststuff.com/boston" target="_blank">New England Software Symposium</a> : Boston, MA</td>
+    </tr>
+    <tr>
+    <td align="center">May 17-18, 2024</td>
+    <td><a style="color: white;" href="https://nofluffjuststuff.com/madison" target="_blank">Greater Wisconsin Software Symposium</a> : Madison, WI</td>
+    </tr>
+    <tr>
+    <td align="center">Jul 16-19, 2024</td>
+    <td><a style="color: white;" href="https://uberconf.com/" target="_blank">UberConf</a> : Denver, CO</td>
     </tr>
 
 </table>
