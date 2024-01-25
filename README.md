@@ -27,7 +27,7 @@
   <tr>
     <td align="center" valign="middle">
         <a href="https://www.youtube.com/watch?v=TPY1WYHDNho"><img src="https://img.youtube.com/vi/TPY1WYHDNho/0.jpg" width="480" /></a>
-        <h4>Introducing Spring AI (jChampions Conference 2024)</h4>
+        <h4>Introducing Spring AI</h4>
     </td>
     
     <td align="center" valign="middle">
