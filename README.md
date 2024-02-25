@@ -87,6 +87,10 @@
     <td><a style="color: white;" href="https://jchampionsconf.com/" target="_blank">jChampions</a> : Online</td>
     </tr>
     <tr>
+    <td align="center">Feb 29, 2024</td>
+    <td><a style="color: white;" href="https://www.developerweek.com" target="_blank">DeveloperWeek</a> : Online</td>
+    </tr>
+    <tr>
     <td align="center">Apr 5-6, 2024</td>
     <td><a style="color: white;" href="https://nofluffjuststuff.com/stlouis" target="_blank">Gateway Software Symposium</a> : St. Louis, MO</td>
     </tr>
@@ -105,6 +109,10 @@
     <tr>
     <td align="center">Jul 16-19, 2024</td>
     <td><a style="color: white;" href="https://uberconf.com/" target="_blank">UberConf</a> : Denver, CO</td>
+    </tr>
+    <tr>
+    <td align="center">Sept 30-Oct 3, 2024</td>
+    <td><a style="color: white;" href="https://www.dev2next.com" target="_blank">Dev2Next</a> : Lone Tree, CO</td>
     </tr>
 
 </table>
