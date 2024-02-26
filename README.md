@@ -95,6 +95,10 @@
     <td><a style="color: white;" href="https://nofluffjuststuff.com/stlouis" target="_blank">Gateway Software Symposium</a> : St. Louis, MO</td>
     </tr>
     <tr>
+    <td align="center">Apr 9-11, 2024</td>
+    <td><a style="color: white;" href="https://devnexus.com/" target="_blank">DevNexus</a> : Atlanta, GA</td>
+    </tr>
+    <tr>
     <td align="center">Apr 12-13, 2024</td>
     <td><a style="color: white;" href="https://nofluffjuststuff.com/dallas" target="_blank">Lone Star Software Symposium</a> : Dallas, TX</td>
     </tr>
