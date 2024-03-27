@@ -76,7 +76,7 @@
 <h5><a href="https://www.youtube.com/channel/UC3PN-vEhnKGUo4mIauOqHUQ" target="_blank">Click here for more Alexa videos</a></h5>
 
 <h2>My Speaking Schedule</h2>
-<p class="lead" style="text-shadow: 2px 2px #000000;">Tech events, conferences, and user groups where you&#39;ll find Craig talking about Spring, Spring Boot, and Alexa</p>
+<p class="lead" style="text-shadow: 2px 2px #000000;">Tech events, conferences, and user groups where you&#39;ll find Craig talking about Spring, Spring Boot, Spring AI, and Alexa</p>
 <table>
     <tr>
     <td align="center">Jan 9-12, 2024</td>
