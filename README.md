@@ -111,6 +111,14 @@
     <td><a style="color: white;" href="https://uberconf.com/" target="_blank">UberConf</a> : Denver, CO</td>
     </tr>
     <tr>
+    <td align="center">Aug 9-10, 2024</td>
+    <td><a style="color: white;" href="https://nofluffjuststuff.com/minneapolis" target="_blank">Twin Cities Software Symposium</a> : Minneapolis, MN</td>
+    </tr>
+    <tr>
+    <td align="center">Sept 6-7, 2024</td>
+    <td><a style="color: white;" href="https://nofluffjuststuff.com/reston" target="_blank">Northern Virginia Software Symposium</a> : Minneapolis, MN</td>
+    </tr>
+    <tr>
     <td align="center">Sept 30-Oct 3, 2024</td>
     <td><a style="color: white;" href="https://www.dev2next.com" target="_blank">Dev2Next</a> : Lone Tree, CO</td>
     </tr>
