@@ -5,19 +5,19 @@
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" style="width: 33%; vertical-align:top">
         <a href="https://www.manning.com/books/spring-ai-in-action" target="_blank"><img src="https://www.habuma.com/img/SAIiA_small.png" style="border:1px solid #0D1C35;"/></a>
         <h4>Spring AI in Action</h4>
         <b>Buy at :</b> <a href="https://www.manning.com/books/spring-ai-in-action?a_aid=habuma&a_bid=f205d999&chan=habuma" target="_blank">Manning</a>
         <p>Learn how to apply Generative AI in your Spring Boot applications!</p>
     </td>
-    <td align="center" width="33%">
+    <td align="center" style="width: 33%; vertical-align:top">
         <a href="http://www.amazon.com/gp/product/1617297577/?tag=habumacom-20" target="_blank"><img src="https://www.habuma.com/img/SiA6_FrontCover.jpg" style="border:1px solid #0D1C35;"/></a>
         <h4>Spring in Action, Sixth Edition</h4>
         <b>Buy at :</b> <a href="http://www.amazon.com/gp/product/1617297577/?tag=habumacom-20" target="_blank">Amazon</a> | <a href="https://www.manning.com/books/spring-in-action-sixth-edition?a_aid=habuma&a_bid=f205d999&chan=habuma" target="_blank">Manning</a>
         <p>If you need to learn Spring, look no further than this widely beloved and comprehensive guide! Fully revised for Spring 5.3, and packed with interesting real-world examples to get your hands dirty with Spring.</p>
     </td>
-    <td align="center">
+    <td align="center" style="width: 33%; vertical-align:top">
         <a href="http://www.amazon.com/gp/product/1680507257/?tag=habumacom-20" target="_blank"><img src="https://www.habuma.com/img/BTA_FrontCover.jpg" style="border:1px solid #0D1C35;"/></a>
         <h4>Build Talking Apps for Alexa</h4>
         <b>Buy at :</b> : <a href="http://www.amazon.com/gp/product/1680507257/?tag=habumacom-20" target="_blank">Amazon</a> | <a href="https://pragprog.com/titles/cwalexa/build-talking-apps-for-alexa/" target="_blank">PragProg.com</a>
