@@ -106,6 +106,14 @@
     <td><a style="color: white;" href="https://devnexus.com/" target="_blank">DevNexus</a> : Atlanta, GA</td>
     </tr>
     <tr>
+    <td align="center">May 7, 2024</td>
+    <td><a style="color: white;" href="https://www.meetup.com/boulderjavausersgroup/" target="_blank">Boulder JUG</a> : Boulder, CO</td>
+    </tr>
+    <tr>
+    <td align="center">May 8, 2024</td>
+    <td><a style="color: white;" href="https://www.meetup.com/denverjavausersgroup/" target="_blank">Denver JUG</a> : Denver, CO</td>
+    </tr>
+    <tr>
     <td align="center">May 17-18, 2024</td>
     <td><a style="color: white;" href="https://nofluffjuststuff.com/madison" target="_blank">Greater Wisconsin Software Symposium</a> : Madison, WI</td>
     </tr>
