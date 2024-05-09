@@ -10,7 +10,7 @@
         <h4>Spring AI in Action</h4>
         <b>Buy at :</b> <a href="https://www.manning.com/books/spring-ai-in-action?a_aid=habuma&a_bid=f205d999&chan=habuma" target="_blank">Manning</a>
         <p>Learn how to apply Generative AI in your Spring Boot applications!</p>
-        <br/><br/>
+        <br/><br/><br/>
     </td>
     <td align="center" width="33%"  style="width: 33%; vertical-align:top">
         <a href="http://www.amazon.com/gp/product/1617297577/?tag=habumacom-20" target="_blank"><img src="https://www.habuma.com/img/SiA6_FrontCover.jpg" style="border:1px solid #0D1C35;"/></a>
