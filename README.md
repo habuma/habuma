@@ -126,8 +126,12 @@
     <td><a style="color: white;" href="https://nofluffjuststuff.com/minneapolis" target="_blank">Twin Cities Software Symposium</a> : Minneapolis, MN</td>
     </tr>
     <tr>
-    <td align="center">Sept 6-7, 2024</td>
+    <td align="center">Sept 5-6, 2024</td>
     <td><a style="color: white;" href="https://nofluffjuststuff.com/reston" target="_blank">Northern Virginia Software Symposium</a> : Reston, VA</td>
+    </tr>
+    <tr>
+    <td align="center">Sept 12-13, 2024</td>
+    <td><a style="color: white;" href="https://nofluffjuststuff.com/desmoines" target="_blank">Central Iowa Software Symposium</a> : Des Moines, IA</td>
     </tr>
     <tr>
     <td align="center">Sept 30-Oct 3, 2024</td>
