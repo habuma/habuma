@@ -33,6 +33,10 @@
 <table>
   <tr>
     <td align="center" valign="middle">
+        <a href="https://www.youtube.com/watch?v=Ttdjj48SawE"><img src="https://img.youtube.com/vi/Ttdjj48SawE/0.jpg" width="480" /></a>
+        <h4>Summarizing Documents with Spring AI</h4>
+    </td>
+    <td align="center" valign="middle">
         <a href="https://www.youtube.com/watch?v=2X9X5Y2ltxY"><img src="https://img.youtube.com/vi/2X9X5Y2ltxY/0.jpg" width="480" /></a>
         <h4>Spring Office Hours (2/26/2024)</h4>
     </td>
@@ -40,13 +44,13 @@
         <a href="https://www.youtube.com/watch?v=TPY1WYHDNho"><img src="https://img.youtube.com/vi/TPY1WYHDNho/0.jpg" width="480" /></a>
         <h4>Introducing Spring AI (1/25/2024; jChampions Conference)</h4>
     </td>
+  </tr>
+
+  <tr>
     <td align="center" valign="middle">
         <a href="https://www.youtube.com/watch?v=7K6YPRUtBkQ"><img src="https://img.youtube.com/vi/7K6YPRUtBkQ/0.jpg" width="480" /></a>
         <h4>Generating Images with Spring AI</h4>
     </td>
-  </tr>
-
-  <tr>
     <td align="center" valign="middle">
         <a href="https://www.youtube.com/watch?v=1g_wuincUdU"><img src="https://img.youtube.com/vi/z40Yqjiond8/0.jpg" width="480" /></a>
         <h4>Tales from the Jar Side (9/21/2023; with Ken Kousen)</h4>
@@ -55,10 +59,6 @@
         <a href="https://www.youtube.com/watch?v=fo0BUkDSUTQ"><img src="https://img.youtube.com/vi/fo0BUkDSUTQ/0.jpg" width="480" /></a>
         <h4>Spring AI Origins: A Look at LangChain</h4>
     </td>    
-    <td align="center" valign="middle">
-        <a href="https://www.youtube.com/watch?v=zNIiLkRn96Q"><img src="https://img.youtube.com/vi/zNIiLkRn96Q/0.jpg" width="480" /></a>
-        <h4>Spring AI and Embeddings</h4>
-    </td>
   </tr>
 </table>
 <h5><a href="https://www.youtube.com/channel/UC4KvfQvH5XAfbA5g7sMdOww" target="_blank">Click here for more Spring videos</a></h5>
