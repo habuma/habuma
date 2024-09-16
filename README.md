@@ -33,6 +33,10 @@
 <table>
   <tr>
     <td align="center" valign="middle">
+        <a href="https://www.youtube.com/watch?v=nJdxgfeXqys"><img src="https://img.youtube.com/vi/nJdxgfeXqys/0.jpg" width="480" /></a>
+        <h4>Influencing GenAI Responses</h4>
+    </td>
+    <td align="center" valign="middle">
         <a href="https://www.youtube.com/watch?v=sfToYE_VfOk"><img src="https://img.youtube.com/vi/sfToYE_VfOk/0.jpg" width="480" /></a>
         <h4>Putting Spring AI to the Test</h4>
     </td>
@@ -40,13 +44,13 @@
         <a href="https://www.youtube.com/watch?v=zvcGL6hg3z0"><img src="https://img.youtube.com/vi/zvcGL6hg3z0/0.jpg" width="480" /></a>
         <h4>Talk to Your Images</h4>
     </td>
+  </tr>
+
+  <tr>
     <td align="center" valign="middle">
         <a href="https://www.youtube.com/watch?v=Ttdjj48SawE"><img src="https://img.youtube.com/vi/Ttdjj48SawE/0.jpg" width="480" /></a>
         <h4>Summarizing Documents with Spring AI</h4>
     </td>
-  </tr>
-
-  <tr>
     <td align="center" valign="middle">
         <a href="https://www.youtube.com/watch?v=2X9X5Y2ltxY"><img src="https://img.youtube.com/vi/2X9X5Y2ltxY/0.jpg" width="480" /></a>
         <h4>Spring Office Hours (2/26/2024)</h4>
@@ -54,10 +58,6 @@
     <td align="center" valign="middle">
         <a href="https://www.youtube.com/watch?v=TPY1WYHDNho"><img src="https://img.youtube.com/vi/TPY1WYHDNho/0.jpg" width="480" /></a>
         <h4>Introducing Spring AI (1/25/2024; jChampions Conference)</h4>
-    </td>
-    <td align="center" valign="middle">
-        <a href="https://www.youtube.com/watch?v=7K6YPRUtBkQ"><img src="https://img.youtube.com/vi/7K6YPRUtBkQ/0.jpg" width="480" /></a>
-        <h4>Generating Images with Spring AI</h4>
     </td>
   </tr>
 </table>
