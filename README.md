@@ -112,7 +112,7 @@
     </tr>
     <tr>
     <td align="center">Sep 5-6, 2025</td>
-    <td><a style="color: white;" href="https://nofluffjuststuff.com/desmoines" target="_blank"></a> Central Iowa Software Symposium: Des Moines, IA</td>
+    <td><a style="color: white;" href="https://nofluffjuststuff.com/desmoines" target="_blank">Central Iowa Software Symposium</a> : Des Moines, IA</td>
     </tr>
     <tr>
     <td align="center">Sep 12-13, 2025</td>
