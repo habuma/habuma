@@ -86,52 +86,53 @@
 <p class="lead" style="text-shadow: 2px 2px #000000;">Tech events, conferences, and user groups where you&#39;ll find Craig talking about Spring, Spring Boot, Spring AI, and Alexa</p>
 <table>
     <tr>
-    <td align="center">Jan 9-12, 2024</td>
-    <td><a style="color: white;" href="https://codemash.org/" target="_blank">CodeMash 2024</a> : Sandusky, OH</td>
+    <td align="center">Mar 31-Apr 3, 2025</td>
+    <td><a style="color: white;" href="https://www.arcofai.com/" target="_blank">Arc of AI</a> : Austin, TX</td>
     </tr>
+
     <tr>
-    <td align="center">Jan 25, 26, 29 and 30, 2024</td>
-    <td><a style="color: white;" href="https://jchampionsconf.com/" target="_blank">jChampions</a> : Online</td>
-    </tr>
-    <tr>
-    <td align="center">Feb 29, 2024</td>
-    <td><a style="color: white;" href="https://www.developerweek.com" target="_blank">DeveloperWeek</a> : Online</td>
-    </tr>
-    <tr>
-    <td align="center">Apr 5-6, 2024</td>
+    <td align="center">Apr 4-5, 2025</td>
     <td><a style="color: white;" href="https://nofluffjuststuff.com/stlouis" target="_blank">Gateway Software Symposium</a> : St. Louis, MO</td>
     </tr>
+
     <tr>
-    <td align="center">Apr 9-11, 2024</td>
-    <td><a style="color: white;" href="https://devnexus.com/" target="_blank">DevNexus</a> : Atlanta, GA</td>
+    <td align="center">Apr 11-12, 2025</td>
+    <td><a style="color: white;" href="https://nofluffjuststuff.com/columbus" target="_blank">Central Ohio Software Symposium</a> : Columbus, OH</td>
     </tr>
+
     <tr>
-    <td align="center">May 7, 2024</td>
-    <td><a style="color: white;" href="https://www.meetup.com/boulderjavausersgroup/" target="_blank">Boulder JUG</a> : Boulder, CO</td>
+    <td align="center">May 2-3, 2025</td>
+    <td><a style="color: white;" href="https://nofluffjuststuff.com/boston" target="_blank">New England Software Symposium</a> : Boston, MA</td>
     </tr>
+
     <tr>
-    <td align="center">May 8, 2024</td>
-    <td><a style="color: white;" href="https://www.meetup.com/denverjavausersgroup/" target="_blank">Denver JUG</a> : Denver, CO</td>
+    <td align="center">May 16-17, 2025</td>
+    <td><a style="color: white;" href="https://nofluffjuststuff.com/chicago" target="_blank">Great Lakes Software Symposium</a> : Chicago, IL</td>
     </tr>
+
     <tr>
-    <td align="center">May 17-18, 2024</td>
-    <td><a style="color: white;" href="https://nofluffjuststuff.com/madison" target="_blank">Greater Wisconsin Software Symposium</a> : Madison, WI</td>
+    <td align="center">Jul 15-18, 2025</td>
+    <td><a style="color: white;" href="https://uberconf.com/" target="_blank">UberConf 2025</a> : Denver, CO</td>
     </tr>
+
     <tr>
-    <td align="center">Jul 16-19, 2024</td>
-    <td><a style="color: white;" href="https://uberconf.com/" target="_blank">UberConf</a> : Denver, CO</td>
+    <td align="center">Sep 5-6, 2025</td>
+    <td><a style="color: white;" href="https://nofluffjuststuff.com/desmoines" target="_blank"></a> Central Iowa Software Symposium: Des Moines, IA</td>
     </tr>
+
     <tr>
-    <td align="center">Sept 5-6, 2024</td>
+    <td align="center">Sep 12-13, 2025</td>
+    <td><a style="color: white;" href="https://nofluffjuststuff.com/minneapolis" target="_blank">Twin Cities Software Symposium</a> : Minneapolis, MN</td>
+    </tr>
+
+    <tr>
+    <td align="center">Sep 19-20, 2025</td>
     <td><a style="color: white;" href="https://nofluffjuststuff.com/reston" target="_blank">Northern Virginia Software Symposium</a> : Reston, VA</td>
     </tr>
+
     <tr>
-    <td align="center">Sept 12-13, 2024</td>
-    <td><a style="color: white;" href="https://nofluffjuststuff.com/desmoines" target="_blank">Central Iowa Software Symposium</a> : Des Moines, IA</td>
-    </tr>
-    <tr>
-    <td align="center">Sept 30-Oct 3, 2024</td>
-    <td><a style="color: white;" href="https://www.dev2next.com" target="_blank">Dev2Next</a> : Lone Tree, CO</td>
+    <td align="center">Oct 10-11, 2025</td>
+    <td><a style="color: white;" href="https://nofluffjuststuff.com/seattle" target="_blank">Pacific Northwest Software Symposium</a> : Seattle, WA</td>
     </tr>
 
 </table>
