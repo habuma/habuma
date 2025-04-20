@@ -95,20 +95,16 @@
     <td><a style="color: white;" href="https://nofluffjuststuff.com/stlouis" target="_blank">Gateway Software Symposium</a> : St. Louis, MO</td>
     </tr>
     <tr>
-    <td align="center">Apr 11-12, 2025</td>
-    <td><a style="color: white;" href="https://nofluffjuststuff.com/columbus" target="_blank">Central Ohio Software Symposium</a> : Columbus, OH</td>
-    </tr>
-    <tr>
     <td align="center">May 2-3, 2025</td>
     <td><a style="color: white;" href="https://nofluffjuststuff.com/boston" target="_blank">New England Software Symposium</a> : Boston, MA</td>
     </tr>
     <tr>
-    <td align="center">May 16-17, 2025</td>
-    <td><a style="color: white;" href="https://nofluffjuststuff.com/chicago" target="_blank">Great Lakes Software Symposium</a> : Chicago, IL</td>
-    </tr>
-    <tr>
     <td align="center">Jul 15-18, 2025</td>
     <td><a style="color: white;" href="https://uberconf.com/" target="_blank">UberConf 2025</a> : Denver, CO</td>
+    </tr>
+    <tr>
+    <td align="center">Aug 1-2, 2025</td>
+    <td><a style="color: white;" href="https://nofluffjuststuff.com/chicago" target="_blank">Great Lakes Software Symposium</a> : Chicago, IL</td>
     </tr>
     <tr>
     <td align="center">Sep 5-6, 2025</td>
