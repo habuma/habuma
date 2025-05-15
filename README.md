@@ -119,6 +119,10 @@
     <td><a style="color: white;" href="https://nofluffjuststuff.com/reston" target="_blank">Northern Virginia Software Symposium</a> : Reston, VA</td>
     </tr>
     <tr>
+    <td align="center">Sep 29-Oct 2, 2025</td>
+    <td><a style="color: white;" href="https://www.dev2next.com/" target="_blank">dev2next</a> : Colorado Springs, CO</td>
+    </tr>
+    <tr>
     <td align="center">Oct 10-11, 2025</td>
     <td><a style="color: white;" href="https://nofluffjuststuff.com/seattle" target="_blank">Pacific Northwest Software Symposium</a> : Seattle, WA</td>
     </tr>
