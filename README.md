@@ -8,7 +8,7 @@
     <td align="center" width="33%" style="width: 33%; vertical-align:top">
         <a href="https://www.manning.com/books/spring-ai-in-action" target="_blank"><img src="https://www.habuma.com/img/SAIiA_small.png" style="border:1px solid #0D1C35;"/></a>
         <h4>Spring AI in Action</h4>
-        <b>Buy at :</b> <a href="https://www.manning.com/books/spring-ai-in-action?a_aid=habuma&a_bid=f205d999&chan=habuma" target="_blank">Manning</a>
+        <b>Buy at :</b> <a href="http://www.amazon.com/gp/product/B0FSS4M5C7/?tag=habumacom-20" target="_blank">Amazon</a> | <a href="https://www.manning.com/books/spring-ai-in-action?a_aid=habuma&a_bid=f205d999&chan=habuma" target="_blank">Manning</a>
         <p>Learn how to apply Generative AI in your Spring Boot applications!</p>
         <br/><br/><br/><br/>
     </td>
@@ -127,10 +127,6 @@
     <tr>
     <td align="center">Sep 29-Oct 2, 2025</td>
     <td><a style="color: white;" href="https://www.dev2next.com/" target="_blank">dev2next</a> : Colorado Springs, CO</td>
-    </tr>
-    <tr>
-    <td align="center">Oct 10-11, 2025</td>
-    <td><a style="color: white;" href="https://nofluffjuststuff.com/seattle" target="_blank">Pacific Northwest Software Symposium</a> : Seattle, WA</td>
     </tr>
 </table>
 
